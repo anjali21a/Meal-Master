@@ -1,8 +1,8 @@
-## 🍽️ Recipe Manager
+## 🍽️ Meal Master
 
 ## Overview :
 
-The Recipe Manager is a user-friendly web-based application designed to simplify recipe management. With an intuitive interface, users can search, organize, and explore new recipes effortlessly. The app's responsive design ensures a seamless experience across all devices, making it an ideal tool for home cooks and food enthusiasts.
+The Meal Master is a user-friendly web-based application designed to simplify recipe management. With an intuitive interface, users can search, organize, and explore new recipes effortlessly. The app's responsive design ensures a seamless experience across all devices, making it an ideal tool for home cooks and food enthusiasts.
 
 ## ✨ Features :
 
